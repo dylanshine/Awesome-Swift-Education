@@ -1181,6 +1181,7 @@
     - Swift wrapper around LLVM [:pencil2:](https://github.com/bencochran/LLVM.swift)
     - Simple programming language written in Swift and compiled with LLVM [:pencil2:](https://github.com/bencochran/Kaleidoscope)
 - Memory
+    - Exploring Swift's Array Implementation [:page_facing_up:](http://ankit.im/swift/2016/01/08/exploring-swift-array-implementation/)
     - Exploring Swift's Dictionary Implementation [:page_facing_up:](http://ankit.im/swift/2016/01/20/exploring-swift-dictionary-implementation/)
     - Swift Memory Layout [:page_facing_up:](https://www.mikeash.com/pyblog/friday-qa-2014-07-18-exploring-swift-memory-layout.html)
     - Swift Struct Storage [:page_facing_up:](https://www.mikeash.com/pyblog/friday-qa-2016-01-29-swift-struct-storage.html)
